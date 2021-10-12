@@ -8,6 +8,19 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Roboto',
     monospace;
 }
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.error-message {
+  color: #010101;
+  font-weight: bold;
+}
+
+
+
+
